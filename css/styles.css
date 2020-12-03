@@ -1,0 +1,11 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    background-color: hsl(185, 75%, 39%);
+}
+.image-grid {
+    background-color: hsl(229, 23%, 23%);
+}
+.information-grid {
+    background-color: white;
+}
